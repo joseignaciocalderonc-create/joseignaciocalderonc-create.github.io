@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "cl.rugbygympro.app",
+        "sha256_cert_fingerprints": ["97:43:CB:C7:BD:C8:86:F3:A5:BC:9B:DE:D2:8C:54:B2:AC:DA:4B:13:D0:36:02:2A:9A:8F:58:21:20:2A:69:14"]
+      }
+    }]
